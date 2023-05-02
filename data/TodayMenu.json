@@ -1,0 +1,71 @@
+[
+          {
+            "id": 1,
+            "name": "Grilled Chicken Sandwich",
+            "description": "Juicy grilled chicken breast served on a toasted bun with lettuce, tomato, and mayonnaise.",
+            "price": 9.99,
+            "calories": 450,
+            "ingredients": ["chicken breast", "lettuce", "tomato", "mayonnaise", "bun"],
+            "image": "https://images.unsplash.com/photo-1597900121060-cf21f1cfa5e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+          },
+          {
+            "id": 2,
+            "name": "Caesar Salad",
+            "description": "Crisp romaine lettuce, croutons, and parmesan cheese tossed with our classic Caesar dressing.",
+            "price": 7.99,
+            "calories": 350,
+            "ingredients": [
+              "romaine lettuce",
+              "croutons",
+              "parmesan cheese",
+              "Caesar dressing"
+            ],
+            "image": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=609&q=80"
+          },
+          {
+            "id": 3,
+            "name": "Margherita Pizza",
+            "description": "Classic pizza topped with tomato sauce, fresh mozzarella cheese, and basil.",
+            "price": 12.99,
+            "calories": 800,
+            "ingredients": [
+              "pizza dough",
+              "tomato sauce",
+              "mozzarella cheese",
+              "basil"
+            ],
+            "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+          },
+          {
+            "id": 4,
+            "name": "Fish and Chips",
+            "description": "Golden-fried cod served with a side of crispy fries and tartar sauce.",
+            "price": 14.99,
+            "calories": 700,
+            "ingredients": ["cod", "french fries", "tartar sauce"],
+            "image": "https://images.unsplash.com/photo-1510130387422-82bed34b37e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+          },
+          {
+            "id": 5,
+            "name": "Veggie Burger",
+            "description": "Vegetarian burger patty made with beans, served on a toasted bun with lettuce, tomato, and onion.",
+            "price": 8.99,
+            "calories": 400,
+            "ingredients": ["veggie burger patty", "lettuce", "tomato", "onion", "bun"],
+            "image": "https://images.unsplash.com/photo-1546441471-c81f0586d0a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+          },
+          {
+            "id": 6,
+            "name": "Chocolate Cake",
+            "description": "Decadent chocolate cake with layers of rich chocolate ganache and a chocolate frosting.",
+            "price": 6.99,
+            "calories": 500,
+            "ingredients": [
+              "chocolate cake",
+              "chocolate ganache",
+              "chocolate frosting"
+            ],
+            "image": "https://images.unsplash.com/photo-1605807646983-377bc5a76493?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=724&q=80"
+          }
+        ]
+        
