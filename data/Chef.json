@@ -1,50 +1,156 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Alice Green",
     "picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "years_of_experience": 5,
     "number_of_recipe_likes": 300,
-    "number_of_recipes": 5
+    "number_of_recipes": 5,
+    "details": {
+      "chef-name": "Alice Green",
+      "picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "recipe-name": "Crock Pot Roast",
+      "ingredients": [
+        "veggie burger patty",
+        "lettuce",
+        "tomato",
+        "onion",
+        "bun"
+      ],
+      "steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+      ],
+      "rating": "5"
+    }
   },
+
   {
-    "id": 2,
+    "id": "2",
     "name": "Bob Lee",
     "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "years_of_experience": 15,
     "number_of_recipe_likes": 1000,
-    "number_of_recipes": 4
+    "number_of_recipes": 4,
+    "details": {
+      "chef-name": "Bob Lee",
+      "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "recipe-name": "Curried Lentils and Rice",
+      "ingredients": [
+        "chocolate cake",
+        "chocolate ganache",
+        "chocolate frosting",
+        "chocolate frosting",
+        "chocolate frosting"
+      ],
+
+      "rating": "4.5"
+    }
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Carol Kim",
     "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "years_of_experience": 8,
     "number_of_recipe_likes": 450,
-    "number_of_recipes": 5
+    "number_of_recipes": 5,
+    "details": {
+      "chef-name": "Carol Kim",
+      "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "recipe-name": "Roasted Asparagus",
+      "ingredients": [
+        "chocolate cake",
+        "chocolate ganache",
+        "chocolate frosting",
+        "chocolate frosting",
+        "chocolate frosting"
+      ],
+
+      "rating": "4.5"
+    }
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "David Lee",
     "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
     "years_of_experience": 12,
     "number_of_recipe_likes": 800,
-    "number_of_recipes": 3
+    "number_of_recipes": 3,
+    "details": {
+      "chef-name": "David Lee",
+      "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "recipe-name": "Big Night Pizza",
+      "ingredients": [
+        "veggie burger patty",
+        "lettuce",
+        "tomato",
+        "onion",
+        "bun"
+      ],
+
+      "rating": "4.5"
+    }
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "Emily Rodriguez",
     "picture": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "years_of_experience": 3,
     "number_of_recipe_likes": 150,
-    "number_of_recipes": 4
+    "number_of_recipes": 4,
+    "details": {
+      "chef-name": "Emily Rodriguez",
+      "picture": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "recipe-name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
+      "ingredients": [
+        "veggie burger patty",
+        "lettuce",
+        "tomato",
+        "onion",
+        "bun"
+      ],
+      "steps": [
+        "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+        "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+        "Knead the dough and spread onto a pan.",
+        "Spread pizza sauce and sprinkle cheese.",
+        "Add any optional toppings as you wish.",
+        "Bake at 400 deg Fahrenheit for 15 minutes.",
+        "Enjoy!"
+      ],
+      "rating": "4.5"
+    }
   },
   {
-    "id": 6,
+    "id": "6",
     "name": "Frank Thompson",
     "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
     "years_of_experience": 20,
     "number_of_recipe_likes": 1200,
-    "number_of_recipes": 3
+    "number_of_recipes": 3,
+    "details": {
+      "chef-name": "Frank Thompson",
+      "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+      "recipe-name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
+      "ingredients": [
+        "veggie burger patty",
+        "lettuce",
+        "tomato",
+        "onion",
+        "bun"
+      ],
+      "steps": [
+        "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+        "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+        "Knead the dough and spread onto a pan.",
+        "Spread pizza sauce and sprinkle cheese.",
+        "Add any optional toppings as you wish.",
+        "Bake at 400 deg Fahrenheit for 15 minutes.",
+        "Enjoy!"
+      ],
+      "rating": "4.5"
+    }
   }
 ]

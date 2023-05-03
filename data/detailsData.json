@@ -1,0 +1,565 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "chef_name": "Alice Green",
+    "chef_image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "category_id": "1",
+    "years_of_experience": 5,
+    "rating": 4.5,
+    "recipe_name": "Crock Pot Roast",
+    "ingredients": ["veggie burger patty", "lettuce", "tomato", "onion", "bun"],
+    "total_view": 488,
+    "recipe_image": "    https://images.unsplash.com/photo-1464500542410-1396074bf230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1023&q=80",
+
+    "steps": [
+      "Place beef roast in crock pot.",
+      "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+      "Pour the water around the roast.",
+      "Cook on low for 7-9 hours."
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "chef_name": "Carol Kim",
+    "category_id": "3",
+    "recipe_name": "Broccoli",
+    "rating": 4.5,
+    " ": 488,
+    "chef_image": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "recipe_image": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=601&q=80",
+
+    "ingredients": [
+      "      1 head of broccoli",
+      "Salt (optional)",
+      "Water",
+      "3 cloves garlic, minced",
+      "bun"
+    ],
+
+    "steps": [
+      "Wash the broccoli and cut it into florets.",
+      "Fill a pot with about 1 inch (2.5 cm) of water and bring it to a boil.",
+      "Place a steamer basket inside the pot.",
+      "Add the broccoli florets to the steamer basket.",
+      "Cover the pot and steam the broccoli for 5-7 minutes, or until it is bright green and tender when pierced with a fork.",
+      "Remove the pot from the heat and carefully take the steamer basket out of the pot.",
+      "Season the broccoli with salt, if desired.",
+      "Serve immediately.",
+      "Enjoy!"
+    ]
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "chef_name": "Bob Lee",
+    "category_id": "2",
+    "recipe_name": "Chicken Alfredo",
+    "rating": 4.3,
+    "total_view": 400,
+
+    "chef_image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_image": " https://images.unsplash.com/photo-1535275226173-7ee8b465f0c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "ingredients": [
+      "  1 pound fettuccine pasta",
+      "2 boneless, 2 tablespoons olive oil",
+      "1 tablespoon butter",
+      "3 cloves garlic, minced",
+      "bun"
+    ],
+
+    "steps": [
+      "Cook the fettuccine pasta according to package instructions until al dente, then drain and set aside.",
+      " While the pasta is cooking, slice the chicken breasts into thin strips.",
+      " Heat the olive oil in a large skillet over medium-high heat. Add the chicken strips and ",
+      "cook for about 5-6 minutes, until they are browned on both sides and cooked through. ",
+      "Remove the chicken from the skillet and set it aside.",
+      "Enjoy!"
+    ]
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "chef_name": "Carol Kim",
+    "category_id": "3",
+    "recipe_name": "Sweet Potato",
+    "rating": 4.5,
+    "total_view": 980,
+
+    "chef_image": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "recipe_image": "https://images.unsplash.com/photo-1584699006710-3ad3b82fce7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "ingredients": [
+      "     4 medium sweet potatoes",
+      "1-2 tablespoons of olive oil",
+      "Salt and pepper (optional)",
+      "3 cloves garlic, minced",
+      "bun"
+    ],
+
+    "steps": [
+      "  Preheat the oven to 400°F (200°C).",
+      "Wash and dry the sweet potatoes.",
+      "Pierce the sweet potatoes all over with a fork.",
+      "Rub each sweet potato with a little bit of olive oil.",
+      "Sprinkle with salt and pepper, if desired.",
+      "Place the sweet potatoes on a baking sheet lined with parchment paper or aluminum foil.",
+      "Bake the sweet potatoes for 45-60 minutes, depending on their size. They're done ",
+      "when a fork can easily pierce through the flesh.",
+      "Enjoy!"
+    ]
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "chef_name": "Alice Green",
+    "category_id": "1",
+    "years_of_experience": 5,
+    "chef_image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "rating": 4.5,
+    "recipe_name": "Curried Lentils and Rice",
+    "total_view": 980,
+    "ingredients": ["veggie burger patty", "lettuce", "tomato", "onion", "bun"],
+    "recipe_image": " https://images.unsplash.com/photo-1626266799523-941311ea2273?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "steps": [
+      "Bring broth to a low boil.",
+      "Add curry powder and salt.",
+      "Cook lentils for 20 minutes.",
+      "Add rice and simmer for 20 minutes.",
+      "Enjoy!"
+    ]
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "chef_name": "Bob Lee",
+    "recipe_name": "Baked Salmon",
+    "category_id": "2",
+    "rating": 4.5,
+    "total_view": null,
+    "chef_image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_image": "    https://images.unsplash.com/photo-1633524792246-f25f5b0d66dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "ingredients": [
+      "    4 salmon fillets, skin on",
+      "    Salt and pepper, to taste",
+      "    2 tablespoons olive oil",
+      "    1 lemon, sliced",
+      "    4 sprigs fresh rosemary"
+    ],
+
+    "steps": [
+      " Cook the fettuccine pasta according to package instructions until al dente, then drain and set aside.",
+      " While the pasta is cooking, slice the chicken breasts into thin strips.",
+      "Heat the olive oil in a large skillet over medium-high heat. Add the chicken strips ",
+      "and cook for about 5-6 minutes, until they are browned on both sides and cooked through. Remove the chicken from the skillet and set it aside.",
+      "  Add the butter and minced garlic to the skillet and cook for about 1-2 minutes",
+      "Enjoy!"
+    ]
+  },
+
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "chef_name": "Carol Kim",
+    "category_id": "3",
+    "rating": 4.5,
+    "total_view": 111,
+    "recipe_name": "Bell Peppers",
+
+    "chef_image": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "recipe_image": "   https://images.unsplash.com/photo-1601648764658-cf37e8c89b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+
+    "ingredients": [
+      "     4 bell peppers (any color)",
+      " 1 pound (450g) ground beef or turkey",
+      "  1 cup (240 ml) cooked rice",
+      "  1 onion, diced",
+      "  2 cloves of garlic, minced",
+      "1 can (14 oz/400g) of diced tomatoes, drained",
+      "1 teaspoon of dried oregano",
+      "Salt and pepper, to taste"
+    ],
+
+    "steps": [
+      "    Preheat the oven to 350°F (175°C).",
+      "Cut off the tops of the bell peppers and remove the seeds and membranes from inside.",
+      "In a skillet over medium heat, cook the ground beef or turkey until browned.",
+      "Add the onion and garlic to the skillet and cook until softened.",
+      "Stir in the cooked rice, drained diced tomatoes, and oregano. Season with salt and pepper to taste.",
+      "Stuff the mixture into the bell peppers.",
+      "Enjoy!"
+    ]
+  },
+
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "chef_name": "David Lee",
+    "category_id": "4",
+    "rating": 4.5,
+    "total_view": 733,
+    "recipe_name": "Lemon Garlic Butter Baked Cod",
+
+    "chef_image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "recipe_image": "https://images.unsplash.com/photo-1514729391575-b0ebbf0b3639?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "ingredients": [
+      "4 cod fillets",
+      "2 cloves garlic, minced",
+      "4 tablespoons unsalted butter, melted",
+      "1 tablespoon lemon juice",
+      "1/4 teaspoon salt",
+      "1/8 teaspoon black pepper",
+      "1/4 teaspoon paprika",
+      "1 tablespoon chopped fresh parsley",
+      "Lemon wedges, for serving"
+    ],
+    "steps": [
+      "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+      "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+      "Knead the dough and spread onto a pan.",
+      "Spread pizza sauce and sprinkle cheese.",
+      "Add any optional toppings as you wish.",
+      "Bake at 400 deg Fahrenheit for 15 minutes.",
+      "Enjoy!"
+    ]
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+    "chef_name": "David Lee",
+    "category_id": "4",
+    "rating": 4.5,
+    "total_view": 733,
+    "recipe_name": "Pan-Seared Salmon with Avocado Salsa",
+
+    "chef_image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "recipe_image": "https://images.unsplash.com/photo-1492708398880-82c528f414c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "ingredients": [
+      "4 salmon fillets",
+      "1 teaspoon ground cumin",
+      "1 teaspoon smoked paprika",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 tablespoon olive oil",
+      "1 avocado, diced",
+      "1/4 cup red onion, diced"
+    ],
+    "steps": [
+      "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+      "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+      "Knead the dough and spread onto a pan.",
+      "Spread pizza sauce and sprinkle cheese.",
+      "Add any optional toppings as you wish.",
+      "Bake at 400 deg Fahrenheit for 15 minutes.",
+      "Enjoy!"
+    ]
+  },
+
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "chef_name": "Emily Rodriguez",
+    "category_id": "5",
+    "rating": 4.5,
+    "total_view": 127,
+    "recipe_name": "Chicken Parmesan",
+    "chef_image": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_image": "     https://images.unsplash.com/photo-1544378730-8b5104b18790?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=849&q=80",
+
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "1 cup all-purpose flour",
+      "3 eggs, beaten",
+      "2 cups Italian seasoned breadcrumbs",
+      "1/2 cup grated Parmesan cheese",
+      "1/4 cup olive oil",
+      "2 cups marinara sauce",
+      "2 cups shredded mozzarella cheese"
+    ],
+    "stapes": [
+      "Preheat oven to 375°F (190°C).",
+      "Place flour in a shallow dish. Beat eggs in another shallow dish. In a third dish, mix together breadcrumbs and Parmesan cheese.",
+      "Dredge each chicken breast in flour, shaking off any excess. Dip in egg mixture, then coat in breadcrumb mixture, pressing the crumbs onto the chicken to adhere.",
+      "Heat olive oil in a large skillet over medium-high heat. Add chicken and cook for about 3 minutes per side, until golden brown and crispy.",
+      "Transfer chicken to a baking dish. Pour marinara sauce over chicken, then sprinkle with shredded mozzarella cheese.",
+      "Bake for 25-30 minutes, until cheese is melted and bubbly.",
+      "Serve hot with pasta or crusty bread."
+    ]
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "chef_name": "Emily Rodriguez",
+    "category_id": "5",
+    "rating": 4.5,
+    "total_view": 127,
+    "recipe_name": "Quinoa and Vegetable Stir-Fry",
+
+    "chef_image": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
+    "recipe_image": " https://images.unsplash.com/photo-1528505086635-4c69d5f10908?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=567&q=80",
+
+    "ingredients": [
+      "1 cup quinoa",
+      "2 cups water",
+      "1 tablespoon vegetable oil",
+      "1 red bell pepper, sliced",
+      "1 yellow bell pepper, sliced",
+      "1 zucchini, sliced"
+    ],
+    "cooking_method": [
+      "In a medium saucepan, combine quinoa and water. Bring to a boil, then reduce heat and simmer for about 15 minutes, until quinoa is tender and water is absorbed.",
+      "Meanwhile, heat vegetable oil in a large skillet over medium-high heat. Add bell peppers, zucchini, onion, garlic, and ginger. Stir-fry for about 5-7 minutes, until vegetables are tender-crisp.",
+      "In a small bowl, whisk together soy sauce, honey, rice vinegar, and red pepper flakes. Pour over vegetables and stir to coat.",
+      "Add cooked quinoa to the skillet and stir-fry for another 1-2 minutes, until heated through.",
+      "Serve hot, garnished with chopped green onions or cilantro."
+    ]
+  },
+
+  {
+    "_id": "cd2b53655737cc4077542baea9f8f75d",
+    "chef_name": "Bob Lee",
+    "recipe_name": "Beef Stir-Fry",
+    "category_id": "2",
+    "rating": 4.5,
+    "total_view": 700,
+
+    "chef_image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_image": "https://images.unsplash.com/photo-1627662168806-efa33a7cda86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+    "steps": [
+      "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+      "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+      "Knead the dough and spread onto a pan.",
+      "Spread pizza sauce and sprinkle cheese.",
+      "Add any optional toppings as you wish.",
+      "Bake at 400 deg Fahrenheit for 15 minutes.",
+      "Enjoy!"
+    ]
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "chef_name": "Frank Thompson",
+    "category_id": "6",
+    "rating": 4.5,
+    "total_view": 300,
+    "recipe_name": "Roasted Brussels Sprouts",
+    "chef_image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "recipe_image": "https://images.unsplash.com/photo-1628519842646-971123de6ffa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=638&q=80",
+
+    "ingredients": [
+      "1 lb Brussels sprouts, trimmed and halved",
+      "2 tbsp olive oil",
+      "1/2 tsp garlic powder",
+      "1/2 tsp onion powder",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper"
+    ],
+    "steps": [
+      "Preheat oven to 400°F.",
+      "In a large bowl, toss Brussels sprouts with olive oil, garlic powder, onion powder, salt, and pepper until well coated.",
+      "Arrange Brussels sprouts in a single layer on a baking sheet.",
+      "Roast in the preheated oven for 20-25 minutes, or until tender and lightly browned, stirring once halfway through cooking."
+    ]
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "chef_name": "Frank Thompson",
+    "category_id": "6",
+    "rating": 4.5,
+    "total_view": 300,
+    "recipe_name": "Sautéed Garlic Green Beans",
+    "chef_image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "recipe_image": "https://images.unsplash.com/photo-1641806120672-643a30aeda7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
+    "ingredients": [
+      "1 lb green beans, trimmed",
+      "2 tbsp olive oil",
+      "4 cloves garlic, minced",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper"
+    ],
+    "steps": [
+      "In a large skillet, heat olive oil over medium-high heat.",
+      "Add garlic and sauté for 1-2 minutes, or until fragrant.",
+      "Add green beans and toss to coat with garlic oil.",
+      "Season with salt and pepper.",
+      "Sauté green beans for 8-10 minutes, or until tender-crisp, stirring occasionally."
+    ]
+  },
+  {
+    "_id": "7c4dfea0fafddc813673282a428429b7",
+    "chef_name": "Alice Green",
+    "category_id": "1",
+    "years_of_experience": 5,
+    "chef_image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "rating": 4.5,
+    "total_view": 0,
+    "recipe_name": "Roasted Asparagus",
+    "ingredients": ["veggie burger patty", "lettuce", "tomato", "onion"],
+
+    "recipe_image": "  https://images.unsplash.com/photo-1591189863430-ab87e120f312?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "steps": [
+      "Preheat oven to 425°F.",
+      "Cut off the woody bottom part of the asparagus spears and discard.",
+      "With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all.\",string.\", and if you eat asparagus you know what I mean by that).",
+      "Place asparagus on foil-lined baking sheet and drizzle with olive oil.",
+      "Sprinkle with salt.",
+      "With your hands, roll the asparagus around until they are evenly coated with oil and salt.",
+      "Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.",
+      "They should be tender when pierced with the tip of a knife.",
+      "The tips of the spears will get very brown but watch them to prevent burning.",
+      "They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal."
+    ]
+  },
+  {
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+    "chef_name": "Alice Green",
+    "category_id": "1",
+    "years_of_experience": 5,
+    "chef_image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "rating": 4.5,
+    "total_view": 320,
+    "recipe_name": "Big Night Pizza",
+    "ingredients": ["veggie burger patty", "lettuce", "tomato", "onion", "bun"],
+    "recipe_image": "  https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+
+    "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
+    "steps": [
+      "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+      "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+      "Knead the dough and spread onto a pan.",
+      "Spread pizza sauce and sprinkle cheese.",
+      "Add any optional toppings as you wish.",
+      "Bake at 400 deg Fahrenheit for 15 minutes.",
+      "Enjoy!"
+    ]
+  },
+  {
+    "_id": "df11ff9feefc37613cc3a4486ce02151",
+    "chef_name": "Bob Lee",
+    "category_id": "2",
+    "recipe_name": "Vegetarian Chili",
+    "rating": 4.5,
+    "total_view": 552,
+
+    "chef_image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_image": "  https://plus.unsplash.com/premium_photo-1661740266848-39c32d711ca3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "ingredients": [
+      "2 tablespoons olive oil",
+      "    1 onion, diced",
+      "    3 cloves garlic, minced",
+      "    2 bell peppers, diced",
+      "    2 carrots, diced",
+      "    2 stalks celery, diced",
+      "    1 jalapeño pepper, seeded and minced"
+    ],
+
+    "steps": [
+      "   Heat the olive oil in a large pot or Dutch oven over medium-high heat.",
+      "Add the diced onion and minced garlic to the pot and cook for about 3-4 minutes, until the onion is translucent.",
+      "Add the diced bell peppers, carrots, celery, and minced jalapeño pepper to the pot and cook for another 3-4 minutes, until the vegetables are slightly softened.",
+      "Add the chili powder, cumin, smoked paprika, oregano, salt, and black pepper to the pot and stir to combine.",
+      "Add the diced tomatoes (including the juice), drained kidney beans, drained black beans, corn, and vegetable broth to the pot and stir to combine.",
+      "Bring the chili to a simmer and reduce the heat to medium-low. Cover the pot and let the ",
+      "Enjoy!"
+    ]
+  },
+  {
+    "_id": "919db97c34e0778b387dd40cdfa08130",
+    "chef_name": "Alice Green",
+    "category_id": "1",
+    "years_of_experience": 5,
+    "chef_image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "rating": 4.5,
+    "total_view": 89,
+    "recipe_name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
+    "ingredients": ["veggie burger patty", "lettuce", "tomato", "onion", "bun"],
+
+    "recipe_image": "   https://images.unsplash.com/photo-1580375460392-0b5e8252d558?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
+    "steps": [
+      "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+      "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+      "Knead the dough and spread onto a pan.",
+      "Spread pizza sauce and sprinkle cheese.",
+      "Add any optional toppings as you wish.",
+      "Bake at 400 deg Fahrenheit for 15 minutes.",
+      "Enjoy!"
+    ]
+  },
+
+  {
+    "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+    "chef_name": "Frank Thompson",
+    "category_id": "6",
+    "rating": 4.2,
+    "total_view": 354,
+    "recipe_name": "Roasted Root Vegetables",
+    "chef_image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "recipe_image": "https://plus.unsplash.com/premium_photo-1674486226868-b8011679e582?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
+    "ingredients": [
+      "1 lb mixed root vegetables (such as carrots, parsnips, and turnips), peeled and chopped",
+      "2 tbsp olive oil",
+      "1 tsp dried thyme",
+      "1 tsp dried rosemary",
+      "1 tsp salt",
+      "1/2 tsp black pepper"
+    ],
+    "steps": [
+      "Preheat oven to 425°F.",
+      "In a large bowl, toss root vegetables with olive oil, thyme, rosemary, salt, and pepper until well coated.",
+      "Arrange vegetables in a single layer on a baking sheet.",
+      "Roast in the preheated oven for 25-30 minutes, or until tender and lightly browned, stirring once halfway through cooking."
+    ]
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+    "chef_name": "Emily Rodriguez",
+    "category_id": "5",
+    "rating": 4.5,
+
+    "total_view": 100,
+    "chef_image": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_image": "   https://plus.unsplash.com/premium_photo-1668772704254-c4c4798b0e5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+
+    "recipe_name": "Chocolate Chip Cookies",
+    "ingredients": [
+      "2 1/4 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1 teaspoon salt",
+      "1 cup unsalted butter, at room temperature",
+      "3/4 cup granulated sugar",
+      "3/4 cup brown sugar",
+      "2 large eggs"
+    ],
+    "cooking_method": [
+      "Preheat oven to 375°F (190°C).",
+      "In a medium bowl, whisk together flour, baking soda"
+    ]
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+    "chef_name": "David Lee",
+    "category_id": "4",
+    "rating": 4.5,
+    "recipe_name": "Spicy Tuna Poke Bowl",
+
+    "total_view": 100,
+
+    "chef_image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "recipe_image": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80",
+    "ingredients": [
+      "1 pound fresh tuna, cut into small cubes",
+      "2 tablespoons soy sauce",
+      "1 tablespoon sesame oil",
+      "1 tablespoon rice vinegar",
+      "1 tablespoon honey",
+      "1 teaspoon grated ginger",
+      "1 clove garlic, minced",
+      "1/2 teaspoon Sriracha sauce"
+    ],
+    "steps": [
+      "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+      "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+      "Knead the dough and spread onto a pan.",
+      "Spread pizza sauce and sprinkle cheese.",
+      "Add any optional toppings as you wish.",
+      "Bake at 400 deg Fahrenheit for 15 minutes.",
+      "Enjoy!"
+    ]
+  }
+]
