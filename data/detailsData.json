@@ -2,6 +2,11 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "chef_name": "Alice Green",
+    "bio": [
+          "James Beard Award for Best Chef in the Midwest (2015)",
+          "Michelin star for restaurant Samantha's (2017-2020)",
+          "Food & Wine Best New Chef (2010)"
+       ],
     "chef_image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "category_id": "1",
     "years_of_experience": 5,
@@ -21,6 +26,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "chef_name": "Carol Kim",
+    "bio": "Lena Rodriguez is a renowned chef specializing in Mexican cuisine. She was born and raised in Mexico City, where she developed a passion for cooking at a young age. After graduating from culinary school, she worked in some of the top restaurants in Mexico City  own restaurant, Casa de Lena, which has since become a beloved fixture in the local culinary scene.",
     "category_id": "3",
     "recipe_name": "Broccoli",
     "rating": 4.5,
@@ -52,6 +58,11 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
     "chef_name": "Bob Lee",
+    "awards": [
+          "James Beard Award for Best Chef in the Pacific Northwest (2021)",
+          "Best New Restaurant by Bon Appétit (2017)",
+          "Top Chef Seattle (2014)"
+       ],
     "category_id": "2",
     "recipe_name": "Chicken Alfredo",
     "rating": 4.3,
@@ -80,6 +91,7 @@
   {
     "_id": "11468ed61aee84de492a8b04158a22f9",
     "chef_name": "Carol Kim",
+    "bio": "Lena Rodriguez is a renowned chef specializing in Mexican cuisine. She was born and raised in Mexico City, where she developed a passion for cooking at a young age. After graduating from culinary school, she worked in some of the top restaurants in Mexico City restaurant, Casa de Lena, which has since become a beloved fixture in the local culinary scene.",
     "category_id": "3",
     "recipe_name": "Sweet Potato",
     "rating": 4.5,
@@ -110,6 +122,11 @@
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
     "chef_name": "Alice Green",
+    "bio": [
+          "James Beard Award for Best Chef in the Midwest (2015)",
+          "Michelin star for restaurant Samantha's (2017-2020)",
+          "Food & Wine Best New Chef (2010)"
+       ],
     "category_id": "1",
     "years_of_experience": 5,
     "chef_image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
@@ -130,6 +147,11 @@
   {
     "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
     "chef_name": "Bob Lee",
+    "bio": [
+          "James Beard Award for Best Chef in the Pacific Northwest (2021)",
+          "Best New Restaurant by Bon Appétit (2017)",
+          "Top Chef Seattle (2014)"
+       ],
     "recipe_name": "Baked Salmon",
     "category_id": "2",
     "rating": 4.5,
@@ -157,6 +179,7 @@
   {
     "_id": "a713ee936ff5574273f0f769f5c5b20e",
     "chef_name": "Carol Kim",
+    "bio": "Lena Rodriguez is a renowned chef specializing in Mexican cuisine. She was born and raised in Mexico City, where she developed a passion for cooking at a young age. After graduating from culinary school, she worked in some of the top restaurants in Mexico City restaurant, Casa de Lena, which has since become a beloved fixture in the local culinary scene.",
     "category_id": "3",
     "rating": 4.5,
     "total_view": 111,
@@ -190,6 +213,7 @@
   {
     "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
     "chef_name": "David Lee",
+   " bio": "A brief summary of the chef's background, experience, and accomplishments.",
     "category_id": "4",
     "rating": 4.5,
     "total_view": 733,
@@ -221,6 +245,7 @@
   {
     "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
     "chef_name": "David Lee",
+    " bio": "A brief summary of the chef's background, experience, and accomplishments.",
     "category_id": "4",
     "rating": 4.5,
     "total_view": 733,
@@ -252,6 +277,8 @@
   {
     "_id": "f06f8cc035b04bd1158e4198281915a3",
     "chef_name": "Emily Rodriguez",
+    "bio": "Samantha Lee is a renowned pastry chef with over 15 years of experience in the industry. She graduated from the Culinary Institute of America and honed her skills in various prestigious restaurants before opening her own bakery. Her creations have been author and a sought-after speaker at culinary events around the world.",
+
     "category_id": "5",
     "rating": 4.5,
     "total_view": 127,
@@ -283,6 +310,7 @@
     "_id": "f06f8cc035b04bd1158e4198281915a4",
     "chef_name": "Emily Rodriguez",
     "category_id": "5",
+    "bio": "Samantha Lee is a renowned pastry chef with over 15 years of experience in the industry. She graduated from the Culinary Institute of America and honed her skills in various prestigious restaurants before opening her own bakery. Her creations have been author and a sought-after speaker at culinary events around the world.",
     "rating": 4.5,
     "total_view": 127,
     "recipe_name": "Quinoa and Vegetable Stir-Fry",
@@ -311,6 +339,11 @@
   {
     "_id": "cd2b53655737cc4077542baea9f8f75d",
     "chef_name": "Bob Lee",
+    "bio": [
+          "James Beard Award for Best Chef in the Pacific Northwest (2021)",
+          "Best New Restaurant by Bon Appétit (2017)",
+          "Top Chef Seattle (2014)"
+       ],
     "recipe_name": "Beef Stir-Fry",
     "category_id": "2",
     "rating": 4.5,
@@ -332,6 +365,7 @@
     "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
     "chef_name": "Frank Thompson",
     "category_id": "6",
+    "bio": "Jose Andres is a Michelin-starred chef, humanitarian, and entrepreneur. He has received numerous awards for his innovative cuisine and philanthropic work, including the James Beard Foundation's Outstanding Chef Award in 2011 and the TIME 100 list of the most globe. He has authored several cookbooks and is a frequent guest on TV shows and at culinary events.",
     "rating": 4.5,
     "total_view": 300,
     "recipe_name": "Roasted Brussels Sprouts",
@@ -357,6 +391,7 @@
     "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
     "chef_name": "Frank Thompson",
     "category_id": "6",
+    "bio": "Jose Andres is a Michelin-starred chef, humanitarian, and entrepreneur. He has received numerous awards for his innovative cuisine and philanthropic work, including the James Beard Foundation's Outstanding Chef Award in 2011 and the TIME 100 list of the most globe. He has authored several cookbooks and is a frequent guest on TV shows and at culinary events.",
     "rating": 4.5,
     "total_view": 300,
     "recipe_name": "Sautéed Garlic Green Beans",
@@ -381,6 +416,11 @@
   {
     "_id": "7c4dfea0fafddc813673282a428429b7",
     "chef_name": "Alice Green",
+    "bio": [
+          "James Beard Award for Best Chef in the Midwest (2015)",
+          "Michelin star for restaurant Samantha's (2017-2020)",
+          "Food & Wine Best New Chef (2010)"
+       ],
     "category_id": "1",
     "years_of_experience": 5,
     "chef_image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
@@ -397,17 +437,18 @@
       "Cut off the woody bottom part of the asparagus spears and discard.",
       "With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all.\",string.\", and if you eat asparagus you know what I mean by that).",
       "Place asparagus on foil-lined baking sheet and drizzle with olive oil.",
-      "Sprinkle with salt.",
-      "With your hands, roll the asparagus around until they are evenly coated with oil and salt.",
-      "Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.",
-      "They should be tender when pierced with the tip of a knife.",
-      "The tips of the spears will get very brown but watch them to prevent burning.",
-      "They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal."
+      "Sprinkle with salt."
+     
     ]
   },
   {
     "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
     "chef_name": "Alice Green",
+    "bio": [
+          "James Beard Award for Best Chef in the Midwest (2015)",
+          "Michelin star for restaurant Samantha's (2017-2020)",
+          "Food & Wine Best New Chef (2010)"
+       ],
     "category_id": "1",
     "years_of_experience": 5,
     "chef_image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
@@ -431,6 +472,11 @@
   {
     "_id": "df11ff9feefc37613cc3a4486ce02151",
     "chef_name": "Bob Lee",
+    "bio": [
+          "James Beard Award for Best Chef in the Pacific Northwest (2021)",
+          "Best New Restaurant by Bon Appétit (2017)",
+          "Top Chef Seattle (2014)"
+       ],
     "category_id": "2",
     "recipe_name": "Vegetarian Chili",
     "rating": 4.5,
@@ -461,6 +507,12 @@
   {
     "_id": "919db97c34e0778b387dd40cdfa08130",
     "chef_name": "Alice Green",
+
+    "bio": [
+          "James Beard Award for Best Chef in the Midwest (2015)",
+          "Michelin star for restaurant Samantha's (2017-2020)",
+          "Food & Wine Best New Chef (2010)"
+       ],
     "category_id": "1",
     "years_of_experience": 5,
     "chef_image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
@@ -485,6 +537,7 @@
     "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
     "chef_name": "Frank Thompson",
     "category_id": "6",
+    "bio": "Jose Andres is a Michelin-starred chef, humanitarian, and entrepreneur. He has received numerous awards for his innovative cuisine and philanthropic work, including the James Beard Foundation's Outstanding Chef Award in 2011 and the TIME 100 list of the most globe. He has authored several cookbooks and is a frequent guest on TV shows and at culinary events.",
     "rating": 4.2,
     "total_view": 354,
     "recipe_name": "Roasted Root Vegetables",
@@ -511,6 +564,7 @@
     "chef_name": "Emily Rodriguez",
     "category_id": "5",
     "rating": 4.5,
+    "bio": "Samantha Lee is a renowned pastry chef with over 15 years of experience in the industry. She graduated from the Culinary Institute of America and honed her skills in various prestigious restaurants before opening her own bakery. Her creations have been author and a sought-after speaker at culinary events around the world.",
 
     "total_view": 100,
     "chef_image": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
@@ -534,6 +588,7 @@
   {
     "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
     "chef_name": "David Lee",
+    " bio": "A brief summary of the chef's background, experience, and accomplishments.",
     "category_id": "4",
     "rating": 4.5,
     "recipe_name": "Spicy Tuna Poke Bowl",
